@@ -1,5 +1,8 @@
 # Hi there, I'm Joana 🐞 
 
+![banner_technologist](https://user-images.githubusercontent.com/97113028/233136724-890b52f3-b216-4f0a-9dd2-64b4ff55f14a.png)
+
+
 - 👩🏼‍💻&ensp;I’m currently working at [xgeeks](https://xgeeks.io/)
 
 - 🚛&ensp;Part of the team that brought to life [WTX](https://www.wtx.com/) through xgeeks
